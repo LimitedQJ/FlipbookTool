@@ -27,7 +27,6 @@ Notes:
 - the first launch can be a bit slower;
 - `app_data.json` is created automatically and stores language and edit presets.
 
--------------------------------------
 
 # Update FlipbookTool to v1.0.1
 ## What's new? 
